@@ -1,2 +1,3 @@
 # calculator-
-simple claculator
+Simple calculator 
+
